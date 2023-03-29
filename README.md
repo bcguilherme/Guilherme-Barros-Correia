@@ -1,10 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 <h3 align="center">Passionate about Data Science</h3>
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
 - 💬 Ask me about **SQl, Power BI, Excel, Python.**
+
+- 📫 How to reach me **contato.guilhermebc@icloud.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/guilhermebcorreia/](https://www.linkedin.com/in/guilhermebcorreia/)
 
